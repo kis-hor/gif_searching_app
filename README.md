@@ -1,3 +1,5 @@
+#This is a simple gif searching app made through vue js - you can search gifs copy the url and paste it
+
 # giphy-api
 
 ## Project setup
